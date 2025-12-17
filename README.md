@@ -46,7 +46,7 @@ This project helps users determine the **optimal combination of properties** giv
 
 ## 💻 Technology Stack
 
-- Python 3.x  
+- Python 3
 - Streamlit for interactive web interface  
 - HTML & CSS for custom styling  
 
