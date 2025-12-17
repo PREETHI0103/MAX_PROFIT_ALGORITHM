@@ -71,10 +71,7 @@ This project helps users determine the **optimal combination of properties** giv
 
 ## 🧪 Example Usage
 
-1. Run the app:
-
-```bash
-streamlit run max_profit_builder_app.py
+1. Run the app: streamlit run max_profit_builder_app.py
 
 2. Enter total construction time, e.g., 7 units.
 
